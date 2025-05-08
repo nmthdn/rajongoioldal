@@ -1,0 +1,7 @@
+#card-fo:hover{
+    color: blue;
+    text-decoration: underline;
+}
+#section1{
+    display: flex;
+}
